@@ -2,31 +2,16 @@
   {
     "id": 1,
     "title": "ကျေးဇူးတော်ခန်းဝတ်",
-    "category": "မနက်ခင်းပဌာန်",
-    "content": "ကျေးဇူးတော်ခန်းဝတ်...\nဒုတိယစာကြောင်း...\nတတိယစာကြောင်း...",
-    "translation": "Act of Contrition...\nSecond line...\nThird line...",
-    "image_url": "https://raw.githubusercontent.com/yourname/prayer-data/main/images/prayer1.jpg",
-    "date": "2024-01-15",
-    "mp3_url": "https://raw.githubusercontent.com/yourname/prayer-data/main/audio/prayer1.mp3"
+    "category": "မနက်ခင်းပဌာန်း",
   },
   {
     "id": 2,
     "title": "သန့်ရှင်းသောဝိညာဉ်တော် ဆုတောင်းခြင်း",
-    "category": "မနက်ခင်းပဌာန်",
-    "content": "သန့်ရှင်းသောဝိညာဉ်တော်...\nဆုတောင်းခြင်းစာသား...",
-    "translation": "Prayer to the Holy Spirit...\nPrayer text...",
-    "image_url": "https://raw.githubusercontent.com/yourname/prayer-data/main/images/prayer2.jpg",
-    "date": "2024-01-16",
-    "mp3_url": "https://raw.githubusercontent.com/yourname/prayer-data/main/audio/prayer2.mp3"
+    "category": "မနက်ခင်းပဌာန်း ၂",
   },
   {
     "id": 3,
     "title": "ညဦးကိုးကွယ်ခြင်း",
-    "category": "ညဦးပဌာနာ",
-    "content": "ကျေးဇူးပါ...\nကိုယ်တော်...\nမေတ္တာ...",
-    "translation": "Evening Prayer...\nLord...\nMercy...",
-    "image_url": "",
-    "date": "2024-01-17",
-    "mp3_url": "https://raw.githubusercontent.com/yourname/prayer-data/main/audio/prayer3.mp3"
+    "category": "ညဦးပဌာန်း",
   }
 ]
