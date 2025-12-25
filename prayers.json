@@ -3,63 +3,12 @@
     "id": 1,
     "title": "နတ်ပင့်",
     "category": "ဘုရားရှိခိုး",
-    "content": "<div style='font-family: Pyidaungsu, Myanmar3, sans-serif; line-height: 1.6;'>"
-    + "<div style='background: #FFF8DC; padding: 15px; border-radius: 8px; border-left: 5px solid #DAA520; margin-bottom: 15px;'>"
-    + "<div style='color: #8B4513; font-weight: bold; text-align: center; font-size: 20px; margin-bottom: 10px;'>ပါဠိတော်</div>"
-    + "<div style='color: #8B0000; font-weight: bold; text-align: center; font-size: 18px;'>"
-    + "သမန္တာ စက္ကဝါဠေသု၊<br/>"
-    + "အတြာ ဂစ္ဆန္တု ဒေဝတာ။<br/>"
-    + "သဒ္ဓမ္မံ မုနိရာဇဿ၊<br/>"
-    + "သုဏန္တု သဂ္ဂမောက္ခဒံ။<br/>"
-    + "ဓမ္မဿဝနကာလော အယံ ဘဒ္ဒန္တာ။"
-    + "</div>"
-    + "</div>"
-    
-    + "<div style='margin-bottom: 10px;'><span style='color: #8B4513; font-weight: bold;'>• သမန္တာ</span> – မြေဟီချာ ရေသီတာနှင့် ဒီပါလေးကျွန်း မြင့်မိုရ်ထွန်းသား စက်ဝန်းအသွင် ဤစကြဝဠာ၏ထက်ဝန်းကျင်မှ၊</div>"
-    
-    + "<div style='margin-bottom: 10px;'><span style='color: #8B4513; font-weight: bold;'>• စက္ကဝါဠေသု</span> – ယူဇနာပေါင်း ရှစ်သောင်းနှစ်ထောင် အမြင့်ဆောင်သော တောင်စကြဝဠာ ကာရံကျောက်စိုက် ဝန်း၍ဝိုက်သော တိုက်ဇာတိပေါင်း တစ်သောင်းသော လောကဓာတ်တို့၌၊</div>"
-    
-    + "<div style='margin-bottom: 10px;'><span style='color: #8B4513; font-weight: bold;'>• ဝသန္တာ</span> – အာဏာလွှမ်းမိုး တန်ခိုးကြီးမြတ် အနတ်နတ်တို့သည်၊</div>"
-    
-    + "<div style='margin-bottom: 10px;'><span style='color: #8B4513; font-weight: bold;'>• အတြာ</span> – ပရိတ်တော်မြတ် ရွတ်ဖတ်သရဇ္စျာယ်ရာ ဤနေရာသို့၊</div>"
-    
-    + "<div style='margin-bottom: 10px;'><span style='color: #8B4513; font-weight: bold;'>• အာဂစ္ဆန္တု</span> – အားလုံးအားလုံး ပေါင်းရုံးအများ သဒ္ဓါပွားလျက် တရားတော်နာ လာရောက်ကြပါကုန်လော့။</div>"
-    
-    + "<div style='margin-bottom: 10px;'><span style='color: #8B4513; font-weight: bold;'>• မုနိရာဇဿ</span> – အရဟန္တ သာဝကနှင့် ပစ္စေကမုနိ အစရှိသော မုနိတကာတို့၏ထိပ်ပန်း၊ ရဟန်းတကာတို့၏သရဖူ၊ လူတကာတို့၏သင်းကျစ်၊ နတ်တကာတို့၏အဆင်းတန်ဆာ၊ ဗြဟ္မာတကာတို့၏ဥသျှောင်၊ ငါးမာရ်အောင်သော မင်းခေါင်မင်းဖျား မြတ်စွာဘုရား၏။</div>"
-    
-    + "<div style='margin-bottom: 10px;'><span style='color: #8B4513; font-weight: bold;'>• သဂ္ဂမောက္ခဒံ</span> – နတ်ဝေဇယံ ငွေဘုံဗိမာန် ခိုလှုံရန်အကျိုးကို ပေးတတ်သော၊</div>"
-    
-    + "<div style='margin-bottom: 10px;'><span style='color: #8B4513; font-weight: bold;'>• သဒ္ဓမ္မံ</span> – ပရိတ်တော်ဟု ဆိုအပ်သော တရားတော်ကို၊</div>"
-    
-    + "<div style='margin-bottom: 10px;'><span style='color: #8B4513; font-weight: bold;'>• သုဏန္တု</span> – မိစ္ဆာဝိတက် ခိုမထားဘဲ မှတ်သားနာခံကြပါကုန်လော့။</div>"
-    + "</div>"
+    "content": "<div style=\"font-family: Pyidaungsu, Myanmar3, sans-serif; line-height: 1.6;\"><div style=\"background: #FFF8DC; padding: 15px; border-radius: 8px; border-left: 5px solid #DAA520; margin-bottom: 15px;\"><div style=\"color: #8B4513; font-weight: bold; text-align: center; font-size: 20px; margin-bottom: 10px;\">ပါဠိတော်</div><div style=\"color: #8B0000; font-weight: bold; text-align: center; font-size: 18px;\">သမန္တာ စက္ကဝါဠေသု၊<br/>အတြာ ဂစ္ဆန္တု ဒေဝတာ။<br/>သဒ္ဓမ္မံ မုနိရာဇဿ၊<br/>သုဏန္တု သဂ္ဂမောက္ခဒံ။<br/>ဓမ္မဿဝနကာလော အယံ ဘဒ္ဒန္တာ။</div></div><div style=\"margin-bottom: 10px;\"><span style=\"color: #8B4513; font-weight: bold;\">• သမန္တာ</span> – မြေဟီချာ ရေသီတာနှင့် ဒီပါလေးကျွန်း မြင့်မိုရ်ထွန်းသား စက်ဝန်းအသွင် ဤစကြဝဠာ၏ထက်ဝန်းကျင်မှ၊</div><div style=\"margin-bottom: 10px;\"><span style=\"color: #8B4513; font-weight: bold;\">• စက္ကဝါဠေသု</span> – ယူဇနာပေါင်း ရှစ်သောင်းနှစ်ထောင် အမြင့်ဆောင်သော တောင်စကြဝဠာ ကာရံကျောက်စိုက် ဝန်း၍ဝိုက်သော တိုက်ဇာတိပေါင်း တစ်သောင်းသော လောကဓာတ်တို့၌၊</div><div style=\"margin-bottom: 10px;\"><span style=\"color: #8B4513; font-weight: bold;\">• ဝသန္တာ</span> – အာဏာလွှမ်း�မိုး တန်ခိုးကြီးမြတ် အနတ်နတ်တို့သည်၊</div><div style=\"margin-bottom: 10px;\"><span style=\"color: #8B4513; font-weight: bold;\">• အတြာ</span> – ပရိတ်တော်မြတ် ရွတ်ဖတ်သရဇ္စျာယ်ရာ ဤနေရာသို့၊</div><div style=\"margin-bottom: 10px;\"><span style=\"color: #8B4513; font-weight: bold;\">• အာဂစ္ဆန္တု</span> – အားလုံးအားလုံး ပေါင်းရုံးအများ သဒ္ဓါပွားလျက် တရားတော်နာ လာရောက်ကြပါကုန်လော့။</div><div style=\"margin-bottom: 10px;\"><span style=\"color: #8B4513; font-weight: bold;\">• မုနိရာဇဿ</span> – အရဟန္တ သာဝကနှင့် ပစ္စေကမုနိ အစရှိသော မုနိတကာတို့၏ထိပ်ပန်း၊ ရဟန်းတကာတို့၏သရဖူ၊ လူတကာတို့၏သင်းကျစ်၊ နတ်တကာတို့၏အဆင်းတန်ဆာ၊ ဗြဟ္မာတကာတို့၏ဥသျှောင်၊ ငါးမာရ်အောင်သော မင်းခေါင်မင်းဖျား မြတ်စွာဘုရား၏။</div><div style=\"margin-bottom: 10px;\"><span style=\"color: #8B4513; font-weight: bold;\">• သဂ္ဂမောက္ခဒံ</span> – နတ်ဝေဇယံ ငွေဘုံဗိမာန် ခိုလှုံရန်အကျိုးကို ပေးတတ်သော၊</div><div style=\"margin-bottom: 10px;\"><span style=\"color: #8B4513; font-weight: bold;\">• သဒ္ဓမ္မံ</span> – ပရိတ်တော်ဟု ဆိုအပ်သော တရားတော်ကို၊</div><div style=\"margin-bottom: 10px;\"><span style=\"color: #8B4513; font-weight: bold;\">• သုဏန္တု</span> – မိစ္ဆာဝိတက် ခိုမထားဘဲ မှတ်သားနာခံကြပါကုန်လော့။</div></div>"
   },
   {
     "id": 2,
     "title": "ဩကာသ ဘုရားရှိခိုး",
     "category": "ဘုရားရှိခိုး",
-    "content": "<div style='font-family: Pyidaungsu, Myanmar3, sans-serif; line-height: 1.6;'>"
-    + "<div style='background: #FFE4E1; padding: 15px; border-radius: 8px; margin-bottom: 15px;'>"
-    + "<div style='color: #8B0000; font-weight: bold; text-align: center; font-size: 22px; margin-bottom: 10px;'>ဩကာသ ဘုရားရှိခိုး</div>"
-    + "<div style='color: #8B0000; font-weight: bold; text-align: center; font-size: 20px;'>ဩကာသ၊ ဩကာသ၊ ဩကာသ၊</div>"
-    + "</div>"
-    
-    + "<div style='margin-bottom: 15px;'>"
-    + "<span style='color: #8B4513; font-weight: bold;'>ကာယကံ၊ ဝစီကံ၊ မနောကံ</span>"
-    + " သဗ္ဗဒေါသ ခပ်သိမ်းသော အပြစ်တို့ကို ပျောက်ပါစေခြင်း အကျိုးငှာ ပထမ၊ ဒုတိယ၊ တတိယ၊ တစ်ကြိမ်၊ နှစ်ကြိမ်၊ သုံးကြိမ်မြောက်အောင် "
-    + "<span style='color: #006400; font-weight: bold;'>ဘုရားရတနာ၊တရားရတနာ၊ သံဃာရတနာ၊</span>"
-    + " ရတနာမြတ်သုံးပါးတို့ကို အရိုအသေ အလေးအမြတ် လက်အုပ်မိုး၍ ရှိခိုးပူဇော် ဖူးမြော်မာန်လျော့ ကန်တော့ပါ၏ အရှင်ဘုရား။"
-    + "</div>"
-    
-    + "<div style='background: #F0FFF0; padding: 12px; border-radius: 6px; margin-bottom: 15px;'>"
-    + "<div style='color: #2F4F4F; font-weight: bold; margin-bottom: 8px;'>ကန်တော့ရသော အကျိုးအားကြောင့်</div>"
-    + "<div style='color: #8B0000; font-weight: bold;'>အပါယ်လေးပါး၊ ကပ်သုံးပါး၊ ရပ်ပြစ်ရှစ်ပါး၊ ရန်သူမျိုးငါးပါး၊ ဝိပတ္တိတရားလေးပါး၊ ဗျဿနတရား ငါးပါး</div>"
-    + "<div style='color: #2F4F4F; margin-top: 8px;'>တို့မှ အခါခပ်သိမ်း ကင်းလွတ်ငြိမ်းသည်ဖြစ်၍</div>"
-    + "</div>"
-    
-    + "<div style='background: #32CD32; color: white; padding: 12px; border-radius: 6px; text-align: center; font-weight: bold; font-size: 18px;'>"
-    + "မဂ်တရား၊ ဖိုလ်တရား နိဗ္ဗာန်ချမ်းသာ တရားတော်မြတ်ကို ရပါလို၏အရှင်ဘုရား။"
-    + "</div>"
-    + "</div>"
+    "content": "<div style=\"font-family: Pyidaungsu, Myanmar3, sans-serif; line-height: 1.6;\"><div style=\"background: #FFE4E1; padding: 15px; border-radius: 8px; margin-bottom: 15px;\"><div style=\"color: #8B0000; font-weight: bold; text-align: center; font-size: 22px; margin-bottom: 10px;\">ဩကာသ ဘုရားရှိခိုး</div><div style=\"color: #8B0000; font-weight: bold; text-align: center; font-size: 20px;\">ဩကာသ၊ ဩကာသ၊ ဩကာသ၊</div></div><div style=\"margin-bottom: 15px;\"><span style=\"color: #8B4513; font-weight: bold;\">ကာယကံ၊ ဝစီကံ၊ မနောကံ</span> သဗ္ဗဒေါသ ခပ်သိမ်းသော အပြစ်တို့ကို ပျောက်ပါစေခြင်း အကျိုးငှာ ပထမ၊ ဒုတိယ၊ တတိယ၊ တစ်ကြိမ်၊ နှစ်ကြိမ်၊ သုံးကြိမ်မြောက်အောင် <span style=\"color: #006400; font-weight: bold;\">ဘုရားရတနာ၊တရားရတနာ၊ သံဃာရတနာ၊</span> ရတနာမြတ်သုံးပါးတို့ကို အရိုအသေ အလေးအမြတ် လက်အုပ်မိုး၍ ရှိခိုးပူဇော် ဖူးမြော်မာန်လျော့ ကန်တော့ပါ၏ အရှင်ဘုရား။</div><div style=\"background: #F0FFF0; padding: 12px; border-radius: 6px; margin-bottom: 15px;\"><div style=\"color: #2F4F4F; font-weight: bold; margin-bottom: 8px;\">ကန်တော့ရသော အကျိုးအားကြောင့်</div><div style=\"color: #8B0000; font-weight: bold;\">အပါယ်လေးပါး၊ ကပ်သုံးပါး၊ ရပ်ပြစ်ရှစ်ပါး၊ ရန်သူမျိုးငါးပါး၊ ဝိပတ္တိတရားလေးပါး၊ ဗျဿနတရား ငါးပါး</div><div style=\"color: #2F4F4F; margin-top: 8px;\">တို့မှ အခါခပ်သိမ်း ကင်းလွတ်ငြိမ်းသည်ဖြစ်၍</div></div><div style=\"background: #32CD32; color: white; padding: 12px; border-radius: 6px; text-align: center; font-weight: bold; font-size: 18px;\">မဂ်တရား၊ ဖိုလ်တရား နိဗ္ဗာန်ချမ်းသာ တရား�တော်မြတ်ကို ရပါလို၏အရှင်ဘုရား။</div></div>"
   }
 ]
