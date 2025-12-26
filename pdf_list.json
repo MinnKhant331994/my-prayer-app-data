@@ -1,9 +1,16 @@
 [
   {
-    "title": "PDF အမည်",
-    "author": "စာရေးသူ",
+    "title": "ဘုရားရှိခိုးစာ ၁",
+    "author": "ပိဋကတ်တော်",
     "size": "2.5 MB",
-    "url": "https://...",
-    "file_name": "file.pdf"
+    "url": "https://example.com/pdf1.pdf",
+    "file_name": "prayer1.pdf"
+  },
+  {
+    "title": "ဘုရားရှိခိုးစာ ၂",
+    "author": "အဘိဓမ္မာ",
+    "size": "1.8 MB",
+    "url": "https://example.com/pdf2.pdf",
+    "file_name": "prayer2.pdf"
   }
 ]
