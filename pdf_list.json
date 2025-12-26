@@ -3,16 +3,20 @@
     {
       "id": 1,
       "title": "PDF 1 အမည်",
+      "author": "စာရေးသူ၏ အမည်",
       "url": "https://raw.githubusercontent.com/username/repo/main/pdf1.pdf",
       "file_name": "pdf1.pdf",
-      "size": "2.5 MB"
+      "size": "2.5 MB",
+      "category": "ဘာသာရေး"
     },
     {
       "id": 2,
       "title": "PDF 2 အမည်",
+      "author": "တစ်ခြားစာရေးဆရာ",
       "url": "https://raw.githubusercontent.com/username/repo/main/pdf2.pdf",
       "file_name": "pdf2.pdf",
-      "size": "1.8 MB"
+      "size": "1.8 MB",
+      "category": "စာပေ"
     }
   ]
 }
